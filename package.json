@@ -1,0 +1,19 @@
+{
+  "name": "bootcamp-gobarber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KarolHarumi/bootcamp-gobarber.git",
+  "author": "Karol Harumi <karol@pebmed.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "dev:debug": "nodemon --inspect src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.12.1"
+  }
+}
