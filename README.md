@@ -11,6 +11,7 @@ yarn dev:debug
 - ExpressJS for the API
 - Sucrase to use new javascript functionalities which NodeJS doesn't support.
 - Docker
+- Sequelize
 
 ## Docker
 
